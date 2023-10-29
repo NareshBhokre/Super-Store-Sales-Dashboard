@@ -1,6 +1,9 @@
 # Super-Store-Sales-Dashboard
 # About Project
 The objective of this assignment is to analyze the Adidas sales database and identify key insights to help improve sales performance and optimize business strategies. By examining the sales data, we aim to understand factors influencing sales, identify trends, and uncover opportunities for growth. The analysis will be conducted using Advanced Power BI visualizations and filters to provide an interactive and insightful dashboard.
+# Tool Used
+1. Power BI
+2. Excel (Advance Level)
 # Dashboard Creation
 Identify the KPIs, design an iniative and visually appealing dashboard, add interactive visualization and filtering capabilities to allow users to explore the data at various levels of granularity.
 # Data Analysis 
